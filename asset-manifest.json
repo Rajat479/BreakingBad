@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BreakingBad/static/css/main.f945fc55.css",
+    "main.js": "/BreakingBad/static/js/main.8bb07855.js",
+    "static/media/spinner.gif": "/BreakingBad/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/BreakingBad/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/BreakingBad/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/BreakingBad/index.html",
+    "main.f945fc55.css.map": "/BreakingBad/static/css/main.f945fc55.css.map",
+    "main.8bb07855.js.map": "/BreakingBad/static/js/main.8bb07855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f945fc55.css",
+    "static/js/main.8bb07855.js"
+  ]
+}
